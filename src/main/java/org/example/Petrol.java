@@ -1,5 +1,4 @@
 package org.example;
-
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Petrol {
@@ -50,6 +49,4 @@ public class Petrol {
 
     public String getUnit() { return unit; }
     public void setUnit(String unit) { this.unit = unit; }
-
-
 }
