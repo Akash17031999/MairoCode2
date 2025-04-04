@@ -1,85 +1,85 @@
 [ {
-  "Location" : "MYS",
+  "Location" : "Mys",
   "Code" : "Petrol",
-  "Month" : "Apr",
-  "Year" : 2023,
-  "Value" : 27.15,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "May",
-  "Year" : 2023,
-  "Value" : 31.442,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Jun",
-  "Year" : 2023,
-  "Value" : 25.15,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Jul",
-  "Year" : 2023,
-  "Value" : 26.442,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Aug",
-  "Year" : 2023,
-  "Value" : 23.15,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Sep",
-  "Year" : 2023,
-  "Value" : 0.0,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Oct",
-  "Year" : 2023,
-  "Value" : 0.0,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Nov",
-  "Year" : 2023,
-  "Value" : 0.0,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Dec",
-  "Year" : 2023,
-  "Value" : 0.0,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Jan",
-  "Year" : 2024,
-  "Value" : 0.0,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Feb",
-  "Year" : 2024,
-  "Value" : 0.15,
-  "Unit" : "KL"
-}, {
-  "Location" : "MYS",
-  "Code" : "Petrol",
-  "Month" : "Mar",
+  "Month" : 4,
   "Year" : 2024,
   "Value" : 27.442,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 5,
+  "Year" : 2024,
+  "Value" : 31.669,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 6,
+  "Year" : 2024,
+  "Value" : 25.421,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 7,
+  "Year" : 2024,
+  "Value" : 26.35,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 8,
+  "Year" : 2024,
+  "Value" : 23.891,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 9,
+  "Year" : 2024,
+  "Value" : 0.0,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 10,
+  "Year" : 2024,
+  "Value" : 0.0,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 11,
+  "Year" : 2024,
+  "Value" : 0.0,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 12,
+  "Year" : 2024,
+  "Value" : 0.0,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 1,
+  "Year" : 2024,
+  "Value" : 0.0,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 2,
+  "Year" : 2024,
+  "Value" : 0.0,
+  "Unit" : "KL"
+}, {
+  "Location" : "Mys",
+  "Code" : "Petrol",
+  "Month" : 3,
+  "Year" : 2024,
+  "Value" : 0.0,
   "Unit" : "KL"
 } ]

@@ -1,15 +1,22 @@
-[
-  {"Location": "MYS", "Code": "Petrol", "Month": "Apr", "Year": 2023, "Value": 27.150, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "May", "Year": 2023, "Value": 31.442, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Jun", "Year": 2023, "Value": 25.150, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Jul", "Year": 2023, "Value": 26.442, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Aug", "Year": 2023, "Value": 23.150, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Sep", "Year": 2023, "Value": 0.00, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Oct", "Year": 2023, "Value": 0.00, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Nov", "Year": 2023, "Value": 0.00, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Dec", "Year": 2023, "Value": 0.00, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Jan", "Year": 2024, "Value": 0.00, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Feb", "Year": 2024, "Value": 0.150, "Unit": "KL"},
-  {"Location": "MYS", "Code": "Petrol", "Month": "Mar", "Year": 2024, "Value": 27.442, "Unit": "KL"}
-]
+{
+  "content": {
+    "Fyear": "2024",
+    "Srno": "1",
+    "CategoryName": "Petrol",
+    "Location": "Mys",
+    "Uom": "KL",
+    "Apr": "27.442",
+    "May": "31.669",
+    "June": "25.421",
+    "July": "26.350",
+    "Aug": "23.891",
+    "Sep": "0.000",
+    "Oct": "0.000",
+    "Nov": "0.000",
+    "Dec": "0.000",
+    "Jan": "0.000",
+    "Feb": "0.000",
+    "March": "0.000"
+  }
+}
 

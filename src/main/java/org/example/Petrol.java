@@ -1,4 +1,5 @@
 package org.example;
+
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Petrol {
@@ -9,7 +10,7 @@ public class Petrol {
     private String code;
 
     @JsonProperty("Month")
-    private String month;
+    private int month;
 
     @JsonProperty("Year")
     private int year;
@@ -22,7 +23,7 @@ public class Petrol {
 
     public Petrol() {}
 
-    public Petrol(String location, String code, String month, int year, double value, String unit) {
+    public Petrol(String location, String code, int month, int year, double value, String unit) {
         this.location = location;
         this.code = code;
         this.month = month;
@@ -31,15 +32,14 @@ public class Petrol {
         this.unit = unit;
     }
 
-
     public String getLocation() { return location; }
     public void setLocation(String location) { this.location = location; }
 
     public String getCode() { return code; }
     public void setCode(String code) { this.code = code; }
 
-    public String getMonth() { return month; }
-    public void setMonth(String month) { this.month = month; }
+    public int getMonth() { return month; }
+    public void setMonth(int month) { this.month = month; }
 
     public int getYear() { return year; }
     public void setYear(int year) { this.year = year; }
