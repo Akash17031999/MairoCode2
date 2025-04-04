@@ -65,7 +65,7 @@ public class JsonConverter {
             case "oct": case "october": return 10;
             case "nov": case "november": return 11;
             case "dec": case "december": return 12;
-            default: return -1; // Invalid month
+            default: return -1;
         }
     }
 }
