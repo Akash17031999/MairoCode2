@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Iterator;
 import java.util.Map;
 
-public class JsonConverter {
+public class JsonConverter{
     public static void main(String[] args) {
         try {
 
